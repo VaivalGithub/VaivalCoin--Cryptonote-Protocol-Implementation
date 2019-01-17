@@ -1,7 +1,7 @@
 # VaivalCoin
 ![Vaival.com/blockchain](https://avatars3.githubusercontent.com/u/43032671?s=460&v=4)
 
-An official implementation of the cryptocurrency in a standardized consensensus model and protocol.
+An official implementation of the cryptocurrency in a standardized consensus model and protocol.
 
 Based off the CryptoNote protocol.
 
