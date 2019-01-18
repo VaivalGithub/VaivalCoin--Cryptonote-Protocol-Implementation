@@ -5,7 +5,7 @@ An official implementation of the cryptocurrency in a standardized consensus mod
 
 Based off the CryptoNote protocol.
 
-# Please note this cryptocurrency is not live and has no intention of going live.
+# Please note this cryptocurrency is not live and has no intention of going live. It is made purely for demonstration purposes.
 
 # Specifications
 - Blocks: 500000000
